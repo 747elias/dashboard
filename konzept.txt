@@ -1,0 +1,6 @@
+Ich möchte gerne eine Website bauen, ein Dashboard, und es soll so aufgebaut sein:
+- Oben soll groß der Name stehen, zum Beispiel "Elias ist das Dashboard", und da sollen links zwei Reihen von Services respektive Apps sein.
+- Es soll etwas in einem kleinen grünen oder roten Kreis anzeigen, grün, wenn der Service pingbar ist (also wenn er erreichbar ist), und rot, wenn nicht, und es soll den Service-Namen und ein kleines Icon anzeigen.
+- Das sollen alles einstellen können.
+- Und dann soll es in der Mitte oder eher rechts so ein EOSS Feed haben, was man einstellen kann, und auch noch das Wetter und den kleinen Habit Tracker.
+Das möchte ich alles haben. Man soll alles anpassen können; das heißt, man kann auch nur Services machen, was zum Beispiel nur RSS Feed nehmen. Ich möchte, dass das Ganze, das Ganze, das mit HTML programmiert ist, wie es bei Websites normalerweise ist, und da möchte ich, dass das Ganze über eine YAML-Datei konfigurierbar ist, wie bei schon bekannten Dashboards. Alles, was ich schon genannt habe, möchte ich, dass man konfiguriert. Und eben auch den Namen oben dran und die App-URL und der Ping-Code soll nicht immer dasselbe sein. Ich möchte das ganze über Docker hosten, was wir im Docker-Container haben.
